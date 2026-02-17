@@ -47,8 +47,6 @@ Master Navyug | Developer Profile
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=technavyug2009-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=14ffec&icon_color=14ffec&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technavyug2009-arch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=14ffec&text_color=ffffff" />
 
 </div>
 
@@ -62,7 +60,11 @@ Master Navyug | Developer Profile
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=technavyug2009-arch&theme=react-dark&hide_border=true&bg_color=0d1117&color=14ffec&line=14ffec&point=ffffff" width="100%" />
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
 </div>
+
 
 <br/>
 
@@ -125,6 +127,9 @@ Origin Story: My passion for gaming is what drives me to discover how my favorit
 </td>
 </tr>
 </table>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 </div>
 
@@ -217,7 +222,12 @@ Connect professionally
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 <br/>
+
+
 
 </div>
 
