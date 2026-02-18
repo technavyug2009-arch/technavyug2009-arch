@@ -18,7 +18,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="310" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwNm1ubXFpMWdlMmZnaHR5OGwyenU4dXltbjFwaGF3bnFzaDNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kopN26K2ThF9j7RL4K/giphy.gif">
 
 ```typescript
 Master Navyug | Developer Profile
@@ -198,7 +198,7 @@ Connect professionally
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExempodnR6anJyeTh0bmdjcnBuZGI2dW40bTh1cWt2YTI2c2Y0b3ZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qiZd2ORhXiqoEDe/giphy.gif" width="500">
 
 <br/><br/>
 
