@@ -18,7 +18,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> **About Me**
 
-<img align="right" alt="Coding" width="310" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwNm1ubXFpMWdlMmZnaHR5OGwyenU4dXltbjFwaGF3bnFzaDNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kopN26K2ThF9j7RL4K/giphy.gif">
+<img align="right" alt="Coding" width="307" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkwNm1ubXFpMWdlMmZnaHR5OGwyenU4dXltbjFwaGF3bnFzaDNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kopN26K2ThF9j7RL4K/giphy.gif">
 
 ```typescript
 Master Navyug | Developer Profile
